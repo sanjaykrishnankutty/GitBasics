@@ -1,0 +1,2 @@
+C:\OurPlace\Study\Hello\Debug\Hello.exe
+C:\OurPlace\Study\Hello\Debug\Hello.pdb

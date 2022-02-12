@@ -1,0 +1,12 @@
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\RxTickets.Data.dll.config
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\RxTickets.Data.dll
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\RxTickets.Data.pdb
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\EntityFramework.dll
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\EntityFramework.xml
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\obj\Debug\RxTickets.Data.csprojAssemblyReference.cache
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\obj\Debug\RxTickets.Data.csproj.CoreCompileInputs.cache
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\obj\Debug\RxTickets.Data.csproj.CopyComplete
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\obj\Debug\RxTickets.Data.dll
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\RxTickets\RxTickets.Data\obj\Debug\RxTickets.Data.pdb

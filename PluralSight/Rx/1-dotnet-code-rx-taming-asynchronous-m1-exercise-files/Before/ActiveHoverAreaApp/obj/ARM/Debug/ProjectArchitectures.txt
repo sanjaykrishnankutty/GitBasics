@@ -1,0 +1,1 @@
+C:\OurPlace\Study\PluralSight\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\Before\ActiveHoverAreaApp\ActiveHoverAreaApp.csproj;arm

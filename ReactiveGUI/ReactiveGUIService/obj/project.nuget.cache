@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "S+sqDhDRdklgMw0dVZPExfsem39//12JyTJHXZ/X496trv3wdZ/2jxDjCvVLs7nLdE5OPZAK60FtpWPk7uUTlA==",
+  "success": true,
+  "projectFilePath": "C:\\OurPlace\\Study\\ReactiveGUI\\ReactiveGUIService\\ReactiveGUIService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanja\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.reactive.core\\4.4.1\\system.reactive.core.4.4.1.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.reactive.interfaces\\4.4.1\\system.reactive.interfaces.4.4.1.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.reactive.linq\\4.4.1\\system.reactive.linq.4.4.1.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.reactive.platformservices\\4.4.1\\system.reactive.platformservices.4.4.1.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\sanja\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

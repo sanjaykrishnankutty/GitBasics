@@ -1,0 +1,9 @@
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\bin\Debug\netstandard2.0\ReactiveGUIService.deps.json
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\bin\Debug\netstandard2.0\ReactiveGUIService.dll
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.csprojAssemblyReference.cache
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.AssemblyInfoInputs.cache
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.AssemblyInfo.cs
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\bin\Debug\netstandard2.0\ReactiveGUIService.pdb
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.csproj.CoreCompileInputs.cache
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.dll
+C:\OurPlace\Study\ReactiveGUI\ReactiveGUIService\obj\Debug\netstandard2.0\ReactiveGUIService.pdb

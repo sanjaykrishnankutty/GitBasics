@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\OurPlace\\Study\\PluralSight\\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\\Before\\RxTickets\\RxTicketsApp\\RxTicketsApp.csproj": {}
+  },
+  "projects": {
+    "C:\\OurPlace\\Study\\PluralSight\\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\\Before\\RxTickets\\RxTicketsApp\\RxTicketsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\OurPlace\\Study\\PluralSight\\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\\Before\\RxTickets\\RxTicketsApp\\RxTicketsApp.csproj",
+        "projectName": "RxTicketsApp",
+        "projectPath": "C:\\OurPlace\\Study\\PluralSight\\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\\Before\\RxTickets\\RxTicketsApp\\RxTicketsApp.csproj",
+        "packagesPath": "C:\\Users\\sanja\\.nuget\\packages\\",
+        "outputPath": "C:\\OurPlace\\Study\\PluralSight\\1-dotnet-code-rx-taming-asynchronous-m1-exercise-files\\Before\\RxTickets\\RxTicketsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\sanja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.18362"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.18362": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.18362": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
